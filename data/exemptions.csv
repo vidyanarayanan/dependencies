@@ -1,0 +1,47 @@
+## Comment lines example
+
+
+
+#### Category 1- multiple names... can we call this thing by one name??
+
+# Double names example - use the name to list alias here
+# Or if there are double aliases, use the alias name that is listed in synonyms (example Nodejs-config)
+# amqplib in ostool exists in both its original form and through an alias {"amqplib" : "amqp.node"} declaring alias here
+amqplib 0.5.2
+
+# lodash  4.17.5 is declared in the ostool as lodash 4.17.5-npm
+lodash 4.17.5
+
+#browserify has two aliases   {"browserify" : "wenke-browserify"}, and   {"browserify": "node-browserify"},
+#declaring the wenke version here
+node-browserify 13.1.1
+
+# config/ hostname-config has a new alias Nodejs-config. Declaring the hostname-config versions as exemptions
+Nodejs-config 1.17.1
+Nodejs-config 1.19.0
+Nodejs-config 1.24.0
+
+# gulp-uglify-harmony alias can no longer be used as now they have started using gulp-uglify as the name
+gulp-uglify 1.5.4
+
+# lodash version number doesnt match
+lodash 4.17.5-npm
+
+#### Category 2-  part of another module
+
+# part of angular-translate
+bower-angular-translate-interpolation-messageformat  2.17.0
+
+
+#### Category 3 - model to be updated
+
+##
+###Below this line maintain currently pending model updates
+
+
+handlebars.js 4.0.11
+nodemailer 4.6.3
+eslint 4.19.1
+
+
+

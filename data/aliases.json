@@ -1,0 +1,38 @@
+mongodb: node-mongodb-native
+gulp-protractor: k1ngdr3w-gulp-protractor
+browserify: wenke-browserify
+gulp-less : gulp-ttkm
+gulp-sonar : gulp-sonar - machellerogden/gulp-sonar
+istanbul : istanbul-for-harmony
+jasmine-core : rally-jasmine-core
+karma-browserify: karma-browserify - xdissent/karma-browserify
+karma-ng-html2js-preprocessor: karma-ng-html2js-preprocessor-next
+mocha: mocha-papandreou
+nodemailer:Nodemailer
+semver:node-semver
+gulp-htmlhint:scania-gulp-htmlhint
+typescript: TypeScript Language
+erlang: otp
+json-stable-stringify: json-stable-stringify - substack/json-stable-stringify
+angular-translate-interpolation-messageformat: bower-angular-translate-interpolation-messageformat
+x509: node-x509
+express: ntest001
+sinon: Sinon.JS
+babel-polyfill : babel - a compiler for writing next generation JavaScript
+redux: redux-tools-example
+sortable: Sortable
+cucumber : cucumber-js : has a v in front of version - v2.1.0
+Rexray: REX-Ray
+Docker-Machine: machine - docker/machine
+Squid: Squid - Optimising Web Delivery
+phantomjs: phantomjs - Obvious/phantomjs:
+grunt-cli: gruntjs - grunt-cli
+grunt-contrib-concat: grunt-contrib-concat - gruntjs/grunt-contrib-concat
+grunt-contrib-copy: gruntjs - grunt-contrib-copy
+time-grunt : time-grunt - sindresorhus/time-grunt
+js-xlsx: xlsx-org
+exif-reader: exif-reader-paras20xx
+angular-translate-loader-static-files: bower-angular-translate-loader-static-files
+bson: js-bson
+mobile-detect: mobile-detect.js
+ng-file-upload: angular-file-upload - danialfarid/angular-file-upload
